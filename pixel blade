@@ -2,5 +2,3 @@ queue_on_teleport([[
     wait(5)
     loadstring(game:HttpGet('https://raw.githubusercontent.com/TexRBLX/Roblox-stuff/refs/heads/main/pixel%20blade/final.lua'))()
 ]])
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TexRBLX/Roblox-stuff/refs/heads/main/pixel%20blade/final.lua"))()
